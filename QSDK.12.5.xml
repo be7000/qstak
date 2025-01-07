@@ -84,5 +84,5 @@
   <project dest-branch="refs/heads/win_wlan_host.1.0.r22" name="clo/qsdk/wifi/iw-patches-oss-5.4" path="qsdk/openwrt-patches/package/network/utils/iw" revision="f81a3d5294bd636219942ecfb6aea026e965000f" upstream="refs/heads/win_wlan_host.1.0.r22"/>
   <project dest-branch="refs/heads/win_wlan_host.1.0.r22" name="clo/qsdk/wifi/qca-telemetry-agent-oss" path="qsdk/qca/src/qca-wifi/telemetry_agent" revision="370f1758e2893137ce2fa366390361346ec7227b" upstream="refs/heads/win_wlan_host.1.0.r22"/>
   <project dest-branch="refs/heads/win_wlan_host.1.0.r22" name="clo/qsdk/wifi/qca-wifi-oss" path="qsdk/qca/src/qca-wifi/component_dev" revision="eac3247c3b8214db456905062d76757b059cec8e" upstream="refs/heads/win_wlan_host.1.0.r22"/>
+  <project name="be7000/xiaomi-be7000-firmware" remote="github" path="qsdk/package/firmware/xiaomi-be7000-firmware" revision="73a025f08fac0e544257662a6ff6d07b41b5950e" upstream="main"/>
 </manifest>
-
